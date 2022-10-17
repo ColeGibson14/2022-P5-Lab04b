@@ -64,7 +64,8 @@ public class Lab04bvst extends Applet
 
         g.fillArc(425,350,80,100,210,290); //left
         g.fillArc(475,300,100,75,135,270); //top
-        g.fillArc(550,345,75,100,25,200); //right
+        g.fillArc(550,345,75,100,10,280); //right
+        g.fillArc (480,420,100,100,-40,245); //bottom
     }
 
 }
